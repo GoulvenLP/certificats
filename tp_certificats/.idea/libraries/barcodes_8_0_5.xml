@@ -1,0 +1,28 @@
+<component name="libraryTable">
+  <library name="barcodes-8.0.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/barcodes-8.0.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/bcpkix-jdk18on-1.78.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/bcprov-jdk18on-1.78.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/bcutil-jdk18on-1.78.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/bouncy-castle-adapter-8.0.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/bouncy-castle-connector-8.0.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/bouncy-castle-fips-adapter-8.0.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-8.0.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/forms-8.0.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/io-8.0.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kernel-8.0.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/layout-8.0.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/pdfa-8.0.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/pdftest-8.0.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/pdfua-8.0.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/sign-8.0.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-2.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-simple-2.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/styled-xml-parser-8.0.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/svg-8.0.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
